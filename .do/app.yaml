@@ -1,0 +1,9 @@
+name: sample-gatsby
+static_sites:
+- build_command: yarn build
+  environment_slug: gatsby
+  github:
+    branch: master
+    deploy_on_push: true
+    repo: digitalocean/sample-gatsby
+  name: sample-gatsby
