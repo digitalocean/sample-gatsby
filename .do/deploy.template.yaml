@@ -1,0 +1,9 @@
+spec:
+  name: sample-gatsby
+  static_sites:
+  - build_command: yarn build
+    environment_slug: gatsby
+    git:
+      branch: main
+      repo_clone_url: https://github.com/digitalocean/sample-gatsby.git
+    name: sample-gatsby
