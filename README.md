@@ -1,3 +1,6 @@
+> ⚠️ **This repository is archived and kept for reference purposes only.**  
+> It is no longer maintained and will not receive updates or support.
+
 ## Getting Started
 
 We provide a sample app using Gatsby that you can deploy on App Platform. These steps will get this sample application running for you using App Platform.
